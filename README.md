@@ -1,1 +1,1 @@
-Hi! I am @strong and weak. You can contact me over [lichess](https://lichess.org/@/Biggest_Brightest). 
+Hi! I am [strongandweak](github.com/strongandweak). You can contact me over [lichess](https://lichess.org/inbox/Biggest_Brightest). This is the account which has the code of a [Bot](lichess.org/TheUninventedRobot)
